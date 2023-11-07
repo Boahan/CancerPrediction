@@ -19,16 +19,13 @@ This is a POC(Proof of concept) kind-of project. The data used here comes up wit
 Breast cancer is a prevalent and life-threatening disease. Early detection is crucial for effective treatment. This project aims to assist in breast cancer diagnosis by predicting tumor malignancy from diagnostic features.
 
 ## Installation
-To use this project, follow these installation steps:
+git clone https://github.com/boahan/CancerPrediction.git
 
-Clone the repository:
-   ```sh
-   git clone https://github.com/boahan/CancerPrediction.git
-
-1.Install the required dependencies using pip:
+Install the required dependencies using pip:
 pip install -r requirements.txt
 
-2.Run the Jupyter Notebook or Python scripts to train models and make predictions.
+Run the Jupyter Notebook or Python scripts to train models and make predictions.
+
 
 ## Dataset
 The breast cancer dataset used in this project is the Wisconsin Diagnostic Breast Cancer (WDBC) dataset, which is available in data/data.csv. This dataset contains various features used for breast cancer diagnosis.
